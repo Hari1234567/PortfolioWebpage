@@ -1,0 +1,78 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     class="svg-snoweb svg-theme-light"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     viewBox="0 0 100 100"
+     preserveAspectRatio="xMidYMid meet"
+>
+<defs>
+    <style>
+        
+            
+            
+            
+        
+
+        .svg-fill-primary {
+            fill: #090D49;
+        }
+
+        .svg-fill-secondary {
+            fill: #65CDAE;
+        }
+
+        .svg-fill-tertiary {
+            fill: #E5E7EB;
+        }
+
+        .svg-stroke-primary {
+            stroke: #090D49;
+        }
+
+        .svg-stroke-secondary {
+            stroke: #65CDAE;
+        }
+
+        .svg-stroke-tertiary {
+            stroke: #E5E7EB;
+        }
+    </style>
+</defs>
+    
+
+<clipPath id="clip-path-202203-2711-4535-d0e32419-3a42-4e00-bf8a-39839ab74e28">
+    <rect x="0" y="95" width="100" height="5"></rect>
+</clipPath>
+<g clip-path="url(#clip-path-202203-2711-4535-d0e32419-3a42-4e00-bf8a-39839ab74e28)">
+    <rect 
+            class="svg-fill-tertiary"
+            x="0"
+            y="95"
+            width="100"
+            height="5">
+    </rect>
+    <g transform="translate(0, 50)">
+        <circle 
+                class="svg-fill-secondary svg-builder-circle"
+                cx="50"
+                cy="50"
+                r="50">
+        </circle>
+    </g>
+</g>
+
+    <g transform="translate(12.50, 12.50) scale(0.75, 0.75)">
+        
+    <line x1="38" y1="82.3" x2="63.4" y2="82.3" fill="none" class="svg-stroke-primary" stroke-linecap="round"
+      stroke-linejoin="round" stroke-width="8"/>
+<polyline points="50.4 82.3 50.4 54.1 79 19.2 21 19.2 50 53.7" fill="none" class="svg-stroke-primary" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="8"/>
+<line x1="32.5" y1="32.6" x2="68" y2="32.6" fill="none" class="svg-stroke-primary" stroke-linecap="round"
+      stroke-linejoin="round" stroke-width="8"/>
+
+
+    </g>
+</svg>
