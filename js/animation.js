@@ -29,8 +29,3 @@ async function switchRoleText(){
   
 }
 switchRoleText();
-async function submitForm(){
-  duration = Math.random()*3;
-  await sleep(duration*1000);
-  alert("Form sent succesfully");
-}
