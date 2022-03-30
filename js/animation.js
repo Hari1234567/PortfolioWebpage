@@ -4,7 +4,7 @@ function sleep(ms) {
 }
 let cur_idx = 0;
 async function switchRoleText(){
-  let role_strings = ["App Developer", "Web Developer","Game Developer"];
+  let role_strings = ["App Developer", "Web Developer","Game Developer","Computer Enthusiast"];
   let text_element = document.getElementById("roles");
   let verticalScale = 1;
   dir = -1;
@@ -23,7 +23,7 @@ async function switchRoleText(){
       clearInterval(id);
     }
   }
-  await sleep(5000);
+  await sleep(1000);
   switchRoleText();
 
   
